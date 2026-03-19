@@ -1,4 +1,4 @@
-I am using this to sharpen my coding and analytics skills through research attempting to find truer player valuations. The abstract lays out the intent and limits of the work so far. 
+I am using this as a journal to sharpen my coding and analytics skills through research attempting to find truer player valuations. The abstract lays out the intent and limits of the work so far. 
 
 Here are a few thoughts outside of the abstract: 
 Open to any and all collaborations. Grassroots work gets stronger by actually spreading horizontally. Criticize away, this is only meant to provoke some thought. 
